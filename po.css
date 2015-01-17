@@ -1,0 +1,53 @@
+div.span4 {
+position: relative;
+}
+
+img.pola {
+position: absolute;
+margin: 10px 30px;
+width: 300px;
+background-color:#ffffff;
+-moz-box-shadow: 5px 5px 5px #000;    /* firefox　*/
+-webkit-box-shadow: 5px 5px 5px #000;  /* safari、chorme */
+}
+
+img.ping {
+position: absolute;
+margin: -55px 180px;
+//margin: -445px 200px;
+}
+
+img.button {
+position: absolute;
+margin: 275px 60px;
+width: 160px;
+}
+/*
+div.button{
+position: absolute;
+margin: 280px 110px;
+}
+*/
+
+img.tw {
+position: absolute;
+margin: 260px 280px;
+width: 30px;
+}
+
+iframe.vine-embed{
+position: absolute;
+margin: 28px 50px;
+//margin: 32px 54px;
+//margin: -398px 54px;
+}
+
+
+BODY {
+background-image:url(./image/back.jpg);
+}
+
+
+body {
+//background-color:#111111;
+}
